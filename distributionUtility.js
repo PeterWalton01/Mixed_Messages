@@ -67,7 +67,7 @@ const avgAwayGoals = 1.2;
 // of gaols scored by a team in a football
 // (soccer) match. 
 //
-// mean: the man for the Poisson distribution
+// mean: the mean for the Poisson distribution
 //       used
 //
 function probabilityDistribution(mean) {
