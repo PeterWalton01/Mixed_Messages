@@ -4,7 +4,7 @@
 
 This project was complete as part of the Codecademy Full-Stack Engineer course. Specifically the project covers the _Mixed Messages_ portfolio project.
 
-The purpose of the project is to provide a utility than returns random messages about a fictitious football games. Each time the utility is run, a new random message is produced. The message consists of several randomly generated elements:
+The purpose of the project is to provide a utility than returns random messages about a fictitious football game. Each time the utility is run, a new random message is produced. The message consists of several randomly generated elements:
 
 1. A pair of goals-scored values, one for the home team and one for the away team.
 2. A pair of competing team are selected at random.
